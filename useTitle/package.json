@@ -1,0 +1,25 @@
+{
+  "name": "@nookssss/use-title",
+  "version": "1.0.0",
+  "description": "React Hook to update your document's title",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bp4sp4/ReactHooks.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "title"
+  ],
+  "author": "SangHunPark <bp4sp4@naver.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bp4sp4/ReactHooks/issues"
+  },
+  "homepage": "https://github.com/bp4sp4/ReactHooks#readme",
+  "peerdependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
